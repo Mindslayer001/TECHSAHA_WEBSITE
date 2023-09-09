@@ -575,9 +575,6 @@ h2 {
 }
 .container{
   width: 500px;
-  border-style: solid;
-  margin: 40px;
-  padding: 20px;
   align-items: center;
   justify-content:center;
   border-color: var(--main-color);
@@ -585,7 +582,6 @@ h2 {
 }
 
 .container p{
-  padding-left:10px;
   color: var(--text-color);
   font:var(--p-font);
 }

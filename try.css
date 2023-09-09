@@ -531,3 +531,49 @@ button.cta:hover {
       width: 100%;
     }
   }
+
+
+
+
+
+
+
+
+
+/* (A) RESPONSIVE IMAGE */
+.fullwrap img { width: 100%; }
+.fullwrap {
+  max-width: 500px; /* optional */
+  position: relative; /* required for (b1) */
+}
+ 
+/* (B) POSITION CAPTION */
+.fullcap {
+  /* (B1) COVER OVER ENTIRE IMAGE */
+  position: absolute; top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+ 
+  /* (B2) CENTER CONTENT */
+  display: flex; justify-content: center; align-items: center;
+}
+ 
+/* (C) ONLY SHOW CAPTION ON HOVER */
+.fullcap {
+  visibility: none; opacity: 0;
+  transition: opacity 0.3s;
+}
+.fullwrap:hover .fullcap {
+  visibility: visible; opacity: 1;
+}
+
+.fullcap a button {
+  background-color: #033a80; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
