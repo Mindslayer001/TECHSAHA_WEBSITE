@@ -1,6 +1,6 @@
 # TechSaha College Club Website
 
-Welcome to the official GitHub repository for the TechSaha College Club website! This repository contains all the source code and assets for our club's website.
+Welcome to the official GitHub repository for the TechSaha College Club website! This repository contains all the source code and assets for our [club's website](https://mindslayer001.github.io/TECHSAHA_WEBSITE/).
 
 ## About TechSaha
 TechSaha is a vibrant and dynamic college club dedicated to exploring and promoting technology-related topics and projects. Our goal is to create an inclusive community of tech enthusiasts, where we learn, collaborate, and innovate together.
