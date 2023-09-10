@@ -26,14 +26,14 @@ We welcome contributions from our members and the open-source community. If you'
 ## Getting Started
 If you want to run the website locally or contribute to its development, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Mindslayer001/TechSaha-Website.git`
+1. Clone this repository: `https://github.com/Mindslayer001/TECHSAHA_WEBSITE.git`
 2. Open the project in your preferred code editor.
 3. Customize the website content and design to match our club's branding.
 4. Test your changes locally.
 5. Push your changes to your forked repository and create a pull request.
 
 ## Reporting Issues
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Mindslayer001/TechSaha-Website/issues) on this repository.
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Mindslayer001/TECHSAHA_WEBSITE/issues) on this repository.
 
 ## Contact Us
 If you have questions or want to get in touch with TechSaha, you can reach out to us through our website or our [official email address](mailto:manisankarchintagunti@gmail.com).
